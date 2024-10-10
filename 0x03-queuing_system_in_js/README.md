@@ -1,5 +1,5 @@
-https://github.com/MosesSoftEng/alx-backend-javascript/blob/main/0x03-queuing_system_in_js/README.md#book-0x05-0x03-queuing-system-in-js
-https://github.com/MosesSoftEng/alx-backend-javascript/blob/main/0x03-queuing_system_in_js/README.md#page_with_curl-topics-covered
+📖 0x05. 0x03. Queuing System in JS.
+📃 Topics Covered.
 This project involves how to use Redis and implementing Kue as a queue system. The learning objectives include;
 
 Running a Redis server.
@@ -8,8 +8,9 @@ Storing hash values in Redis.
 Dealing with async operations.
 Building a basic Express app interacting with a Redis server.
 Building a basic Express app interacting with a Redis server and queue.
-https://github.com/MosesSoftEng/alx-backend-javascript/tree/main/0x03-queuing_system_in_js#computer-tasks
-https://github.com/MosesSoftEng/alx-backend-javascript/tree/main/0x03-queuing_system_in_js#page_with_curl-task-requirements
+💻 Tasks.
+0. Install a redis instance
+📃 Task requirements.
 Download, extract, and compile the latest stable Redis version (higher than 5.0.7 - https://redis.io/download/):
 
     $ wget http://download.redis.io/releases/redis-6.0.10.tar.gz
